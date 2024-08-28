@@ -1,11 +1,4 @@
- # LAG
-# NO. OF VEHICLES IN SIGNAL CLASS
-# stops not used
-# DISTRIBUTION
-# BUS TOUCHING ON TURNS
-# Distribution using python class
 
-# *** IMAGE XY COOD IS TOP LEFT
 import random
 import math
 import time
@@ -14,13 +7,6 @@ import pygame
 import sys
 import os
 
-# options={
-#    'model':'./cfg/yolo.cfg',     #specifying the path of model
-#    'load':'./bin/yolov2.weights',   #weights
-#    'threshold':0.3     #minimum confidence factor to create a box, greater than 0.3 good
-# }
-
-# tfnet=TFNet(options)    #READ ABOUT TFNET
 
 # Default values of signal times
 defaultRed = 150
